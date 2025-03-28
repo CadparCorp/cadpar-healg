@@ -1,0 +1,3 @@
+echo "blockchains/aptos/assets/" >> .gitignore
+git add .gitignore
+git commit -m "Temporarily ignore Aptos folder to allow commits"
