@@ -48,6 +48,46 @@ Part of the **Cadpar Potions Series**, which includes future drops such as:
 
 ---
 
+## 🔐 Founder Vesting Schedule
+
+HEALG was launched with a total fixed supply of **181,409,121,516 HEALG**.  
+A total of **4.00%** was allocated as a **founder stake**, divided as follows:
+
+| Tranche | % of Total | Amount (HEALG) | Emission Start     | Emission End       | Status |
+|---------|------------|----------------|--------------------|--------------------|--------|
+| 0️⃣     | 0.25%      | 453,528,305     | Mar 27, 2025       | Unlocked           | ✅ Transferred to Cadpar Founder wallet |
+| 1️⃣     | 0.25%      | 451,000,000     | Jun 30, 2025       | Sep 30, 2025       | 🔒 Linear emission via UNCX |
+| 2️⃣     | 0.50%      | 903,000,000     | Sep 30, 2025       | Dec 31, 2025       | 🔒 Linear emission via UNCX |
+| 3️⃣     | 1.00%      | 1,806,000,000   | Dec 31, 2025       | Mar 31, 2026       | 🔒 Linear emission via UNCX |
+| 4️⃣     | 2.00%      | 3,612,000,000   | Mar 31, 2026       | Jun 30, 2026       | 🔒 Linear emission via UNCX |
+
+🧙 All locks use **UNCX’s on-chain vesting locker**, with **no cliffs**, **no early withdrawals**, and **fully linear emission**.  
+The remaining **96% of HEALG** will be paired in liquidity pools and time-locked for 18 months.
+
+---
+
+### 🔎 View the Locks
+
+- 🔗 **UNCX Locker Overview**  
+  [https://app.uncx.network/lockers/token/chain/137/address/0x20e6c0e0676fc371af9a1a89a86bb39daa346be5](https://app.uncx.network/lockers/token/chain/137/address/0x20e6c0e0676fc371af9a1a89a86bb39daa346be5)
+
+- 🔗 **Vesting Transaction on Polygonscan**  
+  [https://polygonscan.com/tx/0xab1244d1b0d6321ac55d77ecec30c9eb53abe28d449dce649275e4d7b51c02e6](https://polygonscan.com/tx/0xab1244d1b0d6321ac55d77ecec30c9eb53abe28d449dce649275e4d7b51c02e6)
+
+- 🔗 **UNCX Vesting Smart Contract (Polygon)**  
+  [https://polygonscan.com/address/0x2621816be08e4279cf881bc640be4089bfaf491a](https://polygonscan.com/address/0x2621816be08e4279cf881bc640be4089bfaf491a)
+
+---
+
+### 🧾 Summary
+
+- No additional tokens can be minted  
+- All vesting terms are public and immutable  
+- Founder wallet is transparent and traceable  
+- HEALG adheres to Cadpar’s **zero-rug**, **zero-hype**, and **zero-surprises** ethos  
+
+---
+
 ## 🧠 Lore Stats
 
 > Rolled on 4d6 (drop lowest) x6:  
